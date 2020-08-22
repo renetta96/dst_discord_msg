@@ -1,0 +1,13 @@
+name = "Discord Death Announcements"
+description = "Announces deaths to Discord using a webhook. Use SetDiscordWebhook(\"https://discordapp.com/api/webhooks/734950/YourWebhookHere\") in the console to set the webhook URL that you got from Discord's webhook menu. You should only have to do that once per server. See the Steam page for more info."
+author = "pixelatedInadequacy"
+version = "2.0.2"
+forumthread = "/profile/584294-amethystmushroom/"
+api_version = 10
+dont_starve_compatible = false
+reign_of_giants_compatible = false
+dst_compatible = true
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
+all_clients_require_mod = false
+server_filter_tags = { "discord" }
